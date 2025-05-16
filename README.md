@@ -1,16 +1,28 @@
-## Hi there 👋
+#**My Introduction**
 
-<!--
-**DougFc-byte/DougFc-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Douglas. A Data Enshusiast with expertise in law, academic writing, educational research and data analysis and reporting. I'm proficient in:
 
-Here are some ideas to get you started:
+* Consulting;
+* Brazilian Law;
+* Academic Writing;
+* Educational Research;
+* Querying Data using SQL;
+* Data Analysis and Reporting with Google Sheets or Excel;
+* Developing Dashboards on Looker Studio / PowerBi;
+* Python; 
+* AI with Azure and/or Google Cloud;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 #**Projects**
+
+This is my current Portfolio, where I showcase my projects.
+
+🛠️ #**Tools**
+
+Language: SQL, Python; 
+Database: Google BigQuery, MySQL
+Visualization: Looker Studio, PowerBi
+
+👋🏻 #**Connect with Me**
+
+[Linkedin](www.linkedin.com/in/douglas-felipe-costa-melo-a8aab4187)
+
