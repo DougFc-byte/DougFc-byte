@@ -1,4 +1,4 @@
-#**My Introduction**
+# 📚**My Introduction**
 
 Hello, I'm Douglas. A Data Enshusiast with expertise in law, academic writing, educational research and data analysis and reporting. I'm proficient in:
 
@@ -12,17 +12,17 @@ Hello, I'm Douglas. A Data Enshusiast with expertise in law, academic writing, e
 * Python; 
 * AI with Azure and/or Google Cloud;
 
-📚 #**Projects**
+# 📝 **Projects**
 
 This is my current Portfolio, where I showcase my projects.
 
-🛠️ #**Tools**
+# 🛠️**Tools**
 
 Language: SQL, Python; 
 Database: Google BigQuery, MySQL
 Visualization: Looker Studio, PowerBi
 
-👋🏻 #**Connect with Me**
+# 👋🏻 **Connect with Me**
 
 [Linkedin](www.linkedin.com/in/douglas-felipe-costa-melo-a8aab4187)
 
