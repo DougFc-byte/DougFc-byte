@@ -14,7 +14,7 @@ Hello, I'm Douglas. A Data Enshusiast with expertise in law, academic writing, e
 
 # 📝 **Projects**
 
-This is my current Portfolio, where I showcase my projects.
+This is my current [Portfolio](https://github.com/DougFc-byte/Portfolio-guide/tree/main), where I showcase my projects.
 
 # 🛠️**Tools**
 
