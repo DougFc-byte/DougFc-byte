@@ -18,9 +18,9 @@ This is my current Portfolio, where I showcase my projects.
 
 # 🛠️**Tools**
 
-Language: SQL, Python; 
-Database: Google BigQuery, MySQL
-Visualization: Looker Studio, PowerBi
+Language: SQL, Python;  
+Database: Google BigQuery, MySQL  
+Visualization: Looker Studio, PowerBi  
 
 # 👋🏻 **Connect with Me**
 
