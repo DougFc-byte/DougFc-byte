@@ -24,5 +24,5 @@ Visualization: Looker Studio, PowerBi
 
 # 👋🏻 **Connect with Me**
 
-[Linkedin](www.linkedin.com/in/douglas-felipe-costa-melo-a8aab4187)
+[Linkedin](https://www.linkedin.com/in/douglas-felipe-costa-melo-a8aab4187)
 
